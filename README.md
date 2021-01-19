@@ -7,6 +7,11 @@ Simple projet sous Symfony 5 permettant de tester l'outil de gestion de qualité
 
 Voici ci-dessous l'exemple d'un scan réalisé grâce à l'outil SonarQube précedemment installé sur une machine en local.
 
-<kbd><img width="640" height="343" src="assets/scan-1.png" /></kbd><br>
-<kbd><img width="640" height="343" src="assets/scan-2.png" /></kbd><br>
+
+<kbd><img width="640" height="343" src="assets/scan-1.png" /></kbd>
+
+
+<kbd><img width="640" height="343" src="assets/scan-2.png" /></kbd>
+
+
 <kbd><img width="640" height="343" src="assets/scan-3.png" /></kbd>
